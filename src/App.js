@@ -7,6 +7,7 @@ function App() {
   const change1 = "change1"
   const change4 = "change4"
   const change5 = "change5"
+  const change6 = "change6"
   return (
     <div className="App">
       <header className="App-header">
