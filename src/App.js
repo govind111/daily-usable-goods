@@ -4,6 +4,10 @@ import './App.css';
 
 function App() {
   const change2 = "change3"
+  const change1 = "change1"
+  const change4 = "change4"
+  const change5 = "change5"
+  const change6 = "change6"
   return (
     <div className="App">
       <header className="App-header">
